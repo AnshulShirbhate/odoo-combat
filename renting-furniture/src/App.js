@@ -1,9 +1,18 @@
-import logo from "./logo.svg";
+
 import "./App.css";
-import Home from "./components/Home";
+import Category from "./components/Category";
+import BlogGrid from "./components/BlogGrid";
+
+
 
 function App() {
-  return <Home />;
+  return(
+    <>
+      <Category/>;
+      <BlogGrid/>
+    </>
+  )
+
 }
 
 export default App;
