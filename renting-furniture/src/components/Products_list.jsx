@@ -24,7 +24,7 @@ function Products_list() {
           <header>
               <div class="container">
                   <ol class="breadcrumb">
-                      <li class="breadcrumb-item"><a href="#">Home</a></li>
+                      <li class="breadcrumb-item"><a href="/">Home</a></li>
                       <li class="breadcrumb-item"><a href="#">Library</a></li>
                       <li class="breadcrumb-item active" aria-current="page">Data</li>
                   </ol>
@@ -478,8 +478,8 @@ function Products_list() {
                              
 
                               <span class="grid-list">
-                                  <a href="products-grid.html"><i class="fa fa-th-large"></i></a>
-                                  <a href="products-list.html"><i class="fa fa-align-justify"></i></a>
+                                  <a href="/products-grid"><i class="fa fa-th-large"></i></a>
+                                  <a href="/products-list"><i class="fa fa-align-justify"></i></a>
                                   <a href="javascript:void(0);" class="toggle-filters-mobile">
                                       <i class="fa fa-sliders"></i>
                                       <span class="spinner-grow spinner-grow-sm text-warning" role="status" aria-hidden="true"></span>
@@ -515,7 +515,7 @@ function Products_list() {
                                   <div class="figure-grid">
                                       <span class="badge badge-warning">-20%</span>
                                       <div class="image">
-                                          <a href="product.html">
+                                          <a href="/product">
                                               <img src="assets/images/item-1.jpg" alt="" />
                                           </a>
                                       </div>
@@ -556,13 +556,13 @@ function Products_list() {
                                   <div class="figure-grid">
                                       <span class="badge badge-info">New arrival</span>
                                       <div class="image">
-                                          <a href="product.html">
+                                          <a href="/product">
                                               <img src="assets/images/item-2.jpg" alt="" />
                                           </a>
                                       </div>
                                       <div class="text">
                                           <h2 class="title h4">
-                                              <a href="product.html">Lucy</a>
+                                              <a href="/product">Lucy</a>
                                           </h2>
                                           <sub>$ 899,-</sub>
                                           <sup>$ 750,-</sup>
@@ -596,13 +596,13 @@ function Products_list() {
                                   </div>
                                   <div class="figure-grid">
                                       <div class="image">
-                                          <a href="product.html">
+                                          <a href="/product">
                                               <img src="assets/images/item-3.jpg" alt="" />
                                           </a>
                                       </div>
                                       <div class="text">
                                           <h2 class="title h4">
-                                              <a href="product.html">Ella</a>
+                                              <a href="/product">Ella</a>
                                           </h2>
                                           <sub>$ 699,-</sub>
                                           <sup>$ 499,-</sup>
@@ -636,13 +636,13 @@ function Products_list() {
                                   </div>
                                   <div class="figure-grid">
                                       <div class="image">
-                                          <a href="product.html">
+                                          <a href="/product">
                                               <img src="assets/images/item-4.jpg" alt="" />
                                           </a>
                                       </div>
                                       <div class="text">
                                           <h2 class="title h4">
-                                              <a href="product.html">Madison</a>
+                                              <a href="/product">Madison</a>
                                           </h2>
                                           <sub>$ 159,-</sub>
                                           <sup>$ 139,-</sup>
@@ -677,13 +677,13 @@ function Products_list() {
                                   <div class="figure-grid">
                                       <span class="badge badge-warning">-20%</span>
                                       <div class="image">
-                                          <a href="product.html">
+                                          <a href="/product">
                                               <img src="assets/images/item-5.jpg" alt="" />
                                           </a>
                                       </div>
                                       <div class="text">
                                           <h2 class="title h4">
-                                              <a href="product.html">Lillian</a>
+                                              <a href="/product">Lillian</a>
                                           </h2>
                                           <sub>$ 319,-</sub>
                                           <sup>$ 219,-</sup>
@@ -718,13 +718,13 @@ function Products_list() {
                                   <div class="figure-grid">
                                       <span class="badge badge-info">New arrival</span>
                                       <div class="image">
-                                          <a href="product.html">
+                                          <a href="/product">
                                               <img src="assets/images/item-6.jpg" alt="" />
                                           </a>
                                       </div>
                                       <div class="text">
                                           <h2 class="title h4">
-                                              <a href="product.html">Bella</a>
+                                              <a href="/product">Bella</a>
                                           </h2>
                                           <sub>$ 899,-</sub>
                                           <sup>$ 750,-</sup>
@@ -758,7 +758,7 @@ function Products_list() {
                                   </div>
                                   <div class="figure-grid">
                                       <div class="image">
-                                          <a href="product.html">
+                                          <a href="/product">
                                               <img src="assets/images/item-7.jpg" alt="" />
                                           </a>
                                       </div>
@@ -798,7 +798,7 @@ function Products_list() {
                                   </div>
                                   <div class="figure-grid">
                                       <div class="image">
-                                          <a href="product.html">
+                                          <a href="/product">
                                               <img src="assets/images/item-8.jpg" alt="" />
                                           </a>
                                       </div>
@@ -839,13 +839,13 @@ function Products_list() {
                                   <div class="figure-grid">
                                       <span class="badge badge-warning">-20%</span>
                                       <div class="image">
-                                          <a href="product.html">
+                                          <a href="/product">
                                               <img src="assets/images/item-1.jpg" alt="" />
                                           </a>
                                       </div>
                                       <div class="text">
                                           <h2 class="title h4">
-                                              <a href="product.html">Julia</a>
+                                              <a href="/product">Julia</a>
                                           </h2>
                                           <sub>$ 319,-</sub>
                                           <sup>$ 219,-</sup>
@@ -880,7 +880,7 @@ function Products_list() {
                                   <div class="figure-grid">
                                       <span class="badge badge-info">New arrival</span>
                                       <div class="image">
-                                          <a href="product.html">
+                                          <a href="/product">
                                               <img src="assets/images/item-2.jpg" alt="" />
                                           </a>
                                       </div>
@@ -919,13 +919,13 @@ function Products_list() {
                                   </div>
                                   <div class="figure-grid">
                                       <div class="image">
-                                          <a href="product.html">
+                                          <a href="/product">
                                               <img src="assets/images/item-3.jpg" alt="" />
                                           </a>
                                       </div>
                                       <div class="text">
                                           <h2 class="title h4">
-                                              <a href="product.html">Grace</a>
+                                              <a href="/product">Grace</a>
                                           </h2>
                                           <sub>$ 699,-</sub>
                                           <sup>$ 499,-</sup>
@@ -959,13 +959,13 @@ function Products_list() {
                                   </div>
                                   <div class="figure-grid">
                                       <div class="image">
-                                          <a href="product.html">
+                                          <a href="/product">
                                               <img src="assets/images/item-4.jpg" alt="" />
                                           </a>
                                       </div>
                                       <div class="text">
                                           <h2 class="title h4">
-                                              <a href="product.html">Sofia</a>
+                                              <a href="/product">Sofia</a>
                                           </h2>
                                           <sub>$ 159,-</sub>
                                           <sup>$ 139,-</sup>
@@ -1040,7 +1040,7 @@ function Products_list() {
                               </div>
                               <div class="figure-grid">
                                   <div class="image">
-                                      <a href="product.html">
+                                      <a href="/product">
                                           <img src="assets/images/product-10.jpg" alt="" />
                                       </a>
                                   </div>
@@ -1080,13 +1080,13 @@ function Products_list() {
                               <div class="figure-grid">
                                   <span class="badge badge-warning">-20%</span>
                                   <div class="image">
-                                      <a href="product.html">
+                                      <a href="/product">
                                           <img src="assets/images/product-9.jpg" alt="" />
                                       </a>
                                   </div>
                                   <div class="text">
                                       <h2 class="title h4">
-                                          <a href="product.html">Lucy</a>
+                                          <a href="/product">Lucy</a>
                                       </h2>
                                       <sub>$ 319,-</sub>
                                       <sup>$ 219,-</sup>
@@ -1120,13 +1120,13 @@ function Products_list() {
                               <div class="figure-grid">
                                   <span class="badge badge-info">New arrival</span>
                                   <div class="image">
-                                      <a href="product.html">
+                                      <a href="/product">
                                           <img src="assets/images/product-8.jpg" alt="" />
                                       </a>
                                   </div>
                                   <div class="text">
                                       <h2 class="title h4">
-                                          <a href="product.html">Ella</a>
+                                          <a href="/product">Ella</a>
                                       </h2>
                                       <sub>$ 899,-</sub>
                                       <sup>$ 750,-</sup>
@@ -1211,7 +1211,7 @@ function Products_list() {
 
                   <div class="col-md-4">
                       <article data-3d>
-                          <a href="products-grid.html">
+                          <a href="/products-grid">
                               <div class="image">
                                   <img src="assets/images/product-1.jpg" alt="" />
                               </div>
@@ -1237,7 +1237,7 @@ function Products_list() {
 
                   <div class="col-6 col-md-4">
                       <article data-3d>
-                          <a href="products-grid.html">
+                          <a href="/products-grid">
                               <div class="image">
                                   <img src="assets/images/product-2.jpg" alt="" />
                               </div>
@@ -1263,7 +1263,7 @@ function Products_list() {
 
                   <div class="col-6 col-md-4">
                       <article data-3d>
-                          <a href="products-grid.html">
+                          <a href="/products-grid">
                               <div class="image">
                                   <img src="assets/images/product-3.jpg" alt="" />
                               </div>
@@ -1372,7 +1372,7 @@ function Products_list() {
                   </div>
                   <div class="popup-cell">
                       <div class="popup-buttons">
-                          <a href="product.html"><span class="icon icon-eye"></span> <span class="hidden-xs">View more</span></a>
+                          <a href="/product"><span class="icon icon-eye"></span> <span class="hidden-xs">View more</span></a>
                           <a href="javascript:void(0);"><span class="icon icon-cart"></span> <span class="hidden-xs">Buy</span></a>
                       </div>
                   </div>

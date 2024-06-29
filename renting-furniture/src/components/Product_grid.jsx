@@ -20,7 +20,7 @@ function ProductGrid() {
             <header>
                 <div class="container">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item"><a href="/">Home</a></li>
                         <li class="breadcrumb-item"><a href="#">Library</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Data</li>
                     </ol>
@@ -1324,7 +1324,7 @@ function ProductGrid() {
                     </div>
                     <div class="popup-cell">
                         <div class="popup-buttons">
-                            <a href="product.html"><span class="icon icon-eye"></span> <span class="hidden-xs">View more</span></a>
+                            <a href="/product"><span class="icon icon-eye"></span> <span class="hidden-xs">View more</span></a>
                             <a href="javascript:void(0);"><span class="icon icon-cart"></span> <span class="hidden-xs">Buy</span></a>
                         </div>
                     </div>

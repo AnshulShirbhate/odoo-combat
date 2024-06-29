@@ -45,7 +45,7 @@ function BlogGrid() {
 
                             <div className="col-md-6">
                                 <article>
-                                    <a href="article.html" className="blog-link">
+                                    <a href="/article" className="blog-link">
                                     <div className="image"style={{ backgroundImage: 'url(assets/images/product-1.jpg)' }}>
                                             <img src="assets/images/product-1.jpg" alt="" />
                                         </div>
@@ -68,7 +68,7 @@ function BlogGrid() {
 
                             <div className="col-md-6">
                                 <article>
-                                    <a href="article.html" className="blog-link">
+                                    <a href="/article" className="blog-link">
                                     <div className="image"style={{ backgroundImage: 'url(assets/images/product-2.jpg)' }}>
                                             <img src="assets/images/product-2.jpg" alt="" />
                                         </div>
@@ -114,7 +114,7 @@ function BlogGrid() {
 
                             <div className="col-md-6">
                                 <article>
-                                    <a href="article.html" className="blog-link">
+                                    <a href="/article" className="blog-link">
                                     <div className="image"style={{ backgroundImage: 'url(assets/images/product-4.jpg)' }}>
                                             <img src="assets/images/product-4.jpg" alt="" />
                                         </div>
@@ -137,7 +137,7 @@ function BlogGrid() {
 
                             <div className="col-sm-6">
                                 <article>
-                                    <a href="article.html" className="blog-link">
+                                    <a href="/article" className="blog-link">
                                     <div className="image"style={{ backgroundImage: 'url(assets/images/product-5.jpg)' }}>
                                             <img src="assets/images/product-5.jpg" alt="" />
                                         </div>
@@ -225,7 +225,7 @@ function BlogGrid() {
                                 <h5 className="title">Popular posts</h5>
                                 <ul>
                                     <li>
-                                        <a href="article.html">
+                                        <a href="/article">
                                             <span className="date">
                                                 <span>Sep</span>
                                                 <span>22</span>
@@ -234,7 +234,7 @@ function BlogGrid() {
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="article.html">
+                                        <a href="/article">
                                             <span className="date">
                                                 <span>Aug</span>
                                                 <span>19</span>
@@ -243,7 +243,7 @@ function BlogGrid() {
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="article.html">
+                                        <a href="/article">
                                             <span className="date">
                                                 <span>Jul</span>
                                                 <span>18</span>
@@ -252,7 +252,7 @@ function BlogGrid() {
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="article.html">
+                                        <a href="/article">
                                             <span className="date">
                                                 <span>Jun</span>
                                                 <span>07</span>

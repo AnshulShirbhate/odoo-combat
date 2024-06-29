@@ -39,12 +39,12 @@ function Category() {
                         <article>
                             <div class="figure-block">
                                 <div class="image">
-                                    <a href="products-grid.html">
+                                    <a href="/products-grid">
                                         <img src="assets/images/product-1.jpg" alt="" width="360" />
                                     </a>
                                 </div>
                                 <div class="text">
-                                    <h2 class="title h4"><a href="products-grid.html">Kitchens</a></h2>
+                                    <h2 class="title h4"><a href="/products-grid">Kitchens</a></h2>
                                 </div>
                             </div>
                         </article>
@@ -55,12 +55,12 @@ function Category() {
                         <article>
                             <div class="figure-block">
                                 <div class="image">
-                                    <a href="products-grid.html">
+                                    <a href="/products-grid">
                                         <img src="assets/images/product-2.jpg" alt="" width="360" />
                                     </a>
                                 </div>
                                 <div class="text">
-                                    <h2 class="title h4"><a href="products-grid.html">Living room</a></h2>
+                                    <h2 class="title h4"><a href="/products-grid">Living room</a></h2>
                                 </div>
                             </div>
                         </article>
@@ -71,12 +71,12 @@ function Category() {
                         <article>
                             <div class="figure-block">
                                 <div class="image">
-                                    <a href="products-grid.html">
+                                    <a href="/products-grid">
                                         <img src="assets/images/product-3.jpg" alt="" width="360" />
                                     </a>
                                 </div>
                                 <div class="text">
-                                    <h2 class="title h4"><a href="products-grid.html">Stairs</a></h2>
+                                    <h2 class="title h4"><a href="/products-grid">Stairs</a></h2>
                                 </div>
                             </div>
                         </article>
@@ -87,12 +87,12 @@ function Category() {
                         <article>
                             <div class="figure-block">
                                 <div class="image">
-                                    <a href="products-grid.html">
+                                    <a href="/products-grid">
                                         <img src="assets/images/product-4.jpg" alt="" width="360" />
                                     </a>
                                 </div>
                                 <div class="text">
-                                    <h2 class="title h4"><a href="products-grid.html">Project planning</a></h2>
+                                    <h2 class="title h4"><a href="/products-grid">Project planning</a></h2>
                                 </div>
                             </div>
                         </article>
@@ -103,12 +103,12 @@ function Category() {
                         <article>
                             <div class="figure-block">
                                 <div class="image">
-                                    <a href="products-grid.html">
+                                    <a href="/products-grid">
                                         <img src="assets/images/product-5.jpg" alt="" width="360" />
                                     </a>
                                 </div>
                                 <div class="text">
-                                    <h2 class="title h4"><a href="products-grid.html">Furniture</a></h2>
+                                    <h2 class="title h4"><a href="/products-grid">Furniture</a></h2>
                                 </div>
                             </div>
                         </article>
@@ -119,12 +119,12 @@ function Category() {
                         <article>
                             <div class="figure-block">
                                 <div class="image">
-                                    <a href="products-grid.html">
+                                    <a href="/products-grid">
                                         <img src="assets/images/product-6.jpg" alt="" width="360" />
                                     </a>
                                 </div>
                                 <div class="text">
-                                    <h2 class="title h4"><a href="products-grid.html">Bedrooms</a></h2>
+                                    <h2 class="title h4"><a href="/products-grid">Bedrooms</a></h2>
                                 </div>
                             </div>
                         </article>
@@ -373,12 +373,12 @@ function Category() {
                         <article>
                             <div class="figure-block">
                                 <div class="image">
-                                    <a href="products-grid.html">
+                                    <a href="/products-grid">
                                         <img src="assets/images/item-1.jpg" alt="" width="360" />
                                     </a>
                                 </div>
                                 <div class="text">
-                                    <h2 class="title h4"><a href="products-grid.html">Kitchen</a></h2>
+                                    <h2 class="title h4"><a href="/products-grid">Kitchen</a></h2>
                                 </div>
                             </div>
                         </article>
@@ -389,12 +389,12 @@ function Category() {
                         <article>
                             <div class="figure-block">
                                 <div class="image">
-                                    <a href="products-grid.html">
+                                    <a href="/products-grid">
                                         <img src="assets/images/item-2.jpg" alt="" width="360" />
                                     </a>
                                 </div>
                                 <div class="text">
-                                    <h2 class="title h4"><a href="products-grid.html">Living room</a></h2>
+                                    <h2 class="title h4"><a href="/products-grid">Living room</a></h2>
                                 </div>
                             </div>
                         </article>

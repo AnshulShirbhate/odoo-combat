@@ -1,8 +1,9 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 function Home() {
   return (
     <div>
+      
       <div className="wrapper">
         {/* Header content */}
         <section className="header-content">
@@ -166,7 +167,7 @@ function Home() {
               <div className="text">
                 <p>
                   We just keep things minimal.{" "}
-                  <a href="category.html" className="btn btn-main">
+                  <a href="/category" className="btn btn-main">
                     View more
                   </a>
                 </p>
@@ -180,7 +181,7 @@ function Home() {
                 {/* Item */}
                 <div className="col-md-4">
                   <article data-3d>
-                    <a href="products-grid.html">
+                    <a href="/products-grid">
                       <div className="image">
                         <img src="assets/images/product-1.jpg" alt="" />
                       </div>
@@ -203,7 +204,7 @@ function Home() {
                 {/* Item */}
                 <div className="col-md-4">
                   <article data-3d>
-                    <a href="products-grid.html">
+                    <a href="/products-grid">
                       <div className="image">
                         <img src="assets/images/product-2.jpg" alt="" />
                       </div>
@@ -226,7 +227,7 @@ function Home() {
                 {/* Item */}
                 <div className="col-md-4">
                   <article data-3d>
-                    <a href="products-grid.html">
+                    <a href="/products-grid">
                       <div className="image">
                         <img src="assets/images/product-3.jpg" alt="" />
                       </div>
@@ -261,7 +262,7 @@ function Home() {
               <div className="text">
                 <p>
                   Find your perfect match{" "}
-                  <a href="products-grid.html" className="btn btn-main">
+                  <a href="/products-grid" className="btn btn-main">
                     View all
                   </a>
                 </p>
@@ -300,13 +301,13 @@ function Home() {
                   </div>
                   <div className="figure-grid">
                     <div className="image">
-                      <a href="product.html">
+                      <a href="/product">
                         <img src="assets/images/product-10.jpg" alt="" />
                       </a>
                     </div>
                     <div className="text">
                       <h2 className="title h4">
-                        <a href="product.html">Anna</a>
+                        <a href="/product">Anna</a>
                       </h2>
                       <sub>$ 159,-</sub>
                       <sup>$ 139,-</sup>
@@ -349,13 +350,13 @@ function Home() {
                   <div className="figure-grid">
                     <span className="badge badge-warning">-20%</span>
                     <div className="image">
-                      <a href="product.html">
+                      <a href="/product">
                         <img src="assets/images/product-9.jpg" alt="" />
                       </a>
                     </div>
                     <div className="text">
                       <h2 className="title h4">
-                        <a href="product.html">Lucy</a>
+                        <a href="/product">Lucy</a>
                       </h2>
                       <sub>$ 319,-</sub>
                       <sup>$ 219,-</sup>
@@ -398,13 +399,13 @@ function Home() {
                   <div className="figure-grid">
                     <span className="badge badge-info">New arrival</span>
                     <div className="image">
-                      <a href="product.html">
+                      <a href="/product">
                         <img src="assets/images/product-8.jpg" alt="" />
                       </a>
                     </div>
                     <div className="text">
                       <h2 className="title h4">
-                        <a href="product.html">Ella</a>
+                        <a href="/product">Ella</a>
                       </h2>
                       <sub>$ 899,-</sub>
                       <sup>$ 750,-</sup>
@@ -446,13 +447,13 @@ function Home() {
                   </div>
                   <div className="figure-grid">
                     <div className="image">
-                      <a href="product.html">
+                      <a href="/product">
                         <img src="assets/images/product-7.jpg" alt="" />
                       </a>
                     </div>
                     <div className="text">
                       <h2 className="title h4">
-                        <a href="product.html">Grace</a>
+                        <a href="/product">Grace</a>
                       </h2>
                       <sub>$ 699,-</sub>
                       <sup>$ 499,-</sup>
@@ -494,13 +495,13 @@ function Home() {
                   </div>
                   <div className="figure-grid">
                     <div className="image">
-                      <a href="product.html">
+                      <a href="/product">
                         <img src="assets/images/product-6.jpg" alt="" />
                       </a>
                     </div>
                     <div className="text">
                       <h2 className="title h4">
-                        <a href="product.html">Nora</a>
+                        <a href="/product">Nora</a>
                       </h2>
                       <sub>$ 299,-</sub>
                       <sup>$ 199,-</sup>
@@ -542,13 +543,13 @@ function Home() {
                   </div>
                   <div className="figure-grid">
                     <div className="image">
-                      <a href="product.html">
+                      <a href="/product">
                         <img src="assets/images/product-5.jpg" alt="" />
                       </a>
                     </div>
                     <div className="text">
                       <h2 className="title h4">
-                        <a href="product.html">Sophie</a>
+                        <a href="/product">Sophie</a>
                       </h2>
                       <sub>$ 699,-</sub>
                       <sup>$ 499,-</sup>
@@ -643,7 +644,7 @@ function Home() {
               </div>
               <div className="popup-cell">
                 <div className="popup-buttons">
-                  <a href="product.html">
+                  <a href="/product">
                     <span className="icon icon-eye"></span>{" "}
                     <span className="hidden-xs">View more</span>
                   </a>
@@ -756,7 +757,7 @@ function Home() {
               <div className="text">
                 <p>
                   Explore and unfold thoughts{" "}
-                  <a href="blog-grid.html" className="btn btn-main">
+                  <a href="/blog-grid" className="btn btn-main">
                     View all
                   </a>
                 </p>
@@ -769,7 +770,7 @@ function Home() {
               {/* Blog item */}
               <div className="col-md-12 col-lg-4">
                 <article>
-                  <a href="article.html" className="blog-link">
+                  <a href="/article" className="blog-link">
                     <div
                       className="image"
                       style={{
@@ -799,7 +800,7 @@ function Home() {
               {/* Blog item */}
               <div className="col-md-12 col-lg-4">
                 <article>
-                  <a href="article.html" className="blog-link">
+                  <a href="/article" className="blog-link">
                     <div
                       className="image"
                       style={{
@@ -829,7 +830,7 @@ function Home() {
               {/* Blog item */}
               <div className="col-md-12 col-lg-4">
                 <article>
-                  <a href="article.html" className="blog-link">
+                  <a href="/article" className="blog-link">
                     <div
                       className="image"
                       style={{
@@ -890,7 +891,7 @@ function Home() {
                     />
                   </div>
                   <div className="col-md-4">
-                    <a href="#" className="btn btn-clean">
+                    <a href="/" className="btn btn-clean">
                       Subscribe now
                     </a>
                   </div>
