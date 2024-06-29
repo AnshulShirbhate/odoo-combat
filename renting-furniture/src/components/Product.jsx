@@ -548,13 +548,13 @@ function Product() {
                             </div>
                             <div className="figure-grid">
                                 <div className="image">
-                                    <a href="product.html">
+                                    <a href="/product">
                                         <img src="assets/images/product-10.jpg" alt="" />
                                     </a>
                                 </div>
                                 <div className="text">
                                     <h2 className="title h4">
-                                        <a href="product.html">Anna</a>
+                                        <a href="/product">Anna</a>
                                     </h2>
                                     <sub>$ 159,-</sub>
                                     <sup>$ 139,-</sup>
@@ -588,13 +588,13 @@ function Product() {
                             <div className="figure-grid">
                                 <span className="badge badge-warning">-20%</span>
                                 <div className="image">
-                                    <a href="product.html">
+                                    <a href="/product">
                                         <img src="assets/images/product-9.jpg" alt="" />
                                     </a>
                                 </div>
                                 <div className="text">
                                     <h2 className="title h4">
-                                        <a href="product.html">Lucy</a>
+                                        <a href="/product">Lucy</a>
                                     </h2>
                                     <sub>$ 319,-</sub>
                                     <sup>$ 219,-</sup>
@@ -628,13 +628,13 @@ function Product() {
                             <div className="figure-grid">
                                 <span className="badge badge-info">New arrival</span>
                                 <div className="image">
-                                    <a href="product.html">
+                                    <a href="/product">
                                         <img src="assets/images/product-8.jpg" alt="" />
                                     </a>
                                 </div>
                                 <div className="text">
                                     <h2 className="title h4">
-                                        <a href="product.html">Ella</a>
+                                        <a href="/product">Ella</a>
                                     </h2>
                                     <sub>$ 899,-</sub>
                                     <sup>$ 750,-</sup>
@@ -668,13 +668,13 @@ function Product() {
                             </div>
                             <div className="figure-grid">
                                 <div className="image">
-                                    <a href="product.html">
+                                    <a href="/product">
                                         <img src="assets/images/product-7.jpg" alt="" />
                                     </a>
                                 </div>
                                 <div className="text">
                                     <h2 className="title h4">
-                                        <a href="product.html">Grace</a>
+                                        <a href="/product">Grace</a>
                                     </h2>
                                     <sub>$ 699,-</sub>
                                     <sup>$ 499,-</sup>
@@ -690,7 +690,7 @@ function Product() {
                 </div> 
 
                 <div className="wrapper-more">
-                    <a href="products-grid.html" className="btn btn-main btn-sm">View all products</a>
+                    <a href="/products-grid" className="btn btn-main btn-sm">View all products</a>
                 </div>
 
             </div> 
@@ -773,7 +773,7 @@ function Product() {
                     </div>
                     <div className="popup-cell">
                         <div className="popup-buttons">
-                            <a href="product.html"><span className="icon icon-eye"></span> <span className="hidden-xs">View more</span></a>
+                            <a href="/product"><span className="icon icon-eye"></span> <span className="hidden-xs">View more</span></a>
                             <a href="javascript:void(0);"><span className="icon icon-cart"></span> <span className="hidden-xs">Buy</span></a>
                         </div>
                     </div>
