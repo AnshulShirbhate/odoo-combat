@@ -38,16 +38,9 @@ const FurnitureSchema = new mongoose.Schema({
     type: String,
     trim: true,
   },
-  email: {
-    type: String,
-    required: true,
-    unique: true,
-    trim: true,
-    match: [/.+\@.+\..+/, "Fill a valid email address"],
-  },
 });
 
-const data = mongoose.model("FurnitureData", FurnitureSchema);
+const FurnitureModel = mongoose.model("FurnitureData", FurnitureSchema);
 module.exports = {
-  data,
+  FurnitureModel,
 };

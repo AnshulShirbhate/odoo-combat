@@ -90,8 +90,8 @@ app.get("/furniture", async (req, res) => {
 app.post("/furniture", async (req, res) => {
   const furniture = new FurnitureModel(req.body);
   try {
-    const newFurniture = await furniture.save();
-    res.status(201).json(newFurniture);
+    await furniture.save();
+    res.status(201).json({ success: success });
   } catch (err) {
     res.status(400).json({ message: err.message });
   }
