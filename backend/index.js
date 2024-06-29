@@ -20,7 +20,7 @@ app.listen(PORT, () => {
 });
 
 app.post("/signup", async (req, res) => {
-  const { name, email, password, profilePicture } = req.body; // Ensure profilePicture is included
+  const { name, email, password } = req.body;
   try {
     const existingUser = await UserModel.findOne({ email });
     if (existingUser) {
@@ -35,7 +35,7 @@ app.post("/signup", async (req, res) => {
       name,
       email,
       password: hashedPassword,
-      profilePicture, // Save profilePicture
+      // Save profilePicture
     });
 
     const token = jwt.sign({ id: user._id, email: user.email }, JWT_SECRET, {

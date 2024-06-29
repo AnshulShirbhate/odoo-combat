@@ -17,6 +17,10 @@ const UserSchema = new mongoose.Schema({
     required: true,
     minlength: 6,
   },
+  rentalHistory: {
+    type: Array,
+    default: [],
+  },
 });
 
 const UserModel = mongoose.model("Users", UserSchema);

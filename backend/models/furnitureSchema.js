@@ -34,7 +34,7 @@ const FurnitureSchema = new mongoose.Schema({
     type: String,
     trim: true,
   },
-  availableQuantity: {
+  quantity: {
     type: String,
     trim: true,
   },
